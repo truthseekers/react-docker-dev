@@ -8,9 +8,13 @@ Linux, Docker & Kubernetes, React.js, GraphQL, SQL, Mongo, Emacs & more. Literal
 
 ## [Join our community by signing up for our newsletter!](https://truthseekers.io/latest-tutorials-signup/)
 
+0?.  Hmmm.... I may have made some kind of error. It looks like you have to also run "npm install" in your ui/ folder. I'll make an updated video soon.
+
 1. Make sure you have docker & docker-compose setup.
 
 docker-compose up --build
+
+
 
 And that's it!
 
